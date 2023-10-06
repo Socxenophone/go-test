@@ -1,0 +1,40 @@
+{
+  "cityName": "Super hero squad",
+  "coins": 2016,
+  "founder": "Super tower master",
+  "exists": true,
+  "councilMembers": [
+    {
+      "name": "Molecule Man",
+      "age": 29,
+      "class": "Daaaa Jukes",
+      "skills": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name": "Madame Uppercut",
+      "age": 39,
+      "class": "Jane Wilson",
+      "skills": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name": "Eternal Flame",
+      "age": 1000000,
+      "class": "Unknown",
+      "skills": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
