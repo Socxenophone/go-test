@@ -1,7 +1,5 @@
 github.com/Delta456/box-cli-maker v1.3.2 h1:p3LJ67tYrkWOqd3Xju1rYWxx7cRcfHL42poOxdmOLi8=
 github.com/Delta456/box-cli-maker v1.3.2/go.mod h1:MsanLNTlPCfUdYyhfPY4Aond1NbPGnRxJiAWFcDBIsA=
-github.com/abusomani/go-palette v1.1.0 h1:ZhlqxFztDW/2r4hawkn7E7xR7kakO3KsBevze7UxI4Y=
-github.com/abusomani/go-palette v1.1.0/go.mod h1:soUv7uIh4/VOf9krAnal4EVCCA6/ohQCxpi7bf+jM48=
 github.com/fatih/color v1.9.0 h1:8xPHl4/q1VyqGIPif1F+1V3Y3lSmrq01EabUW3CoW5s=
 github.com/fatih/color v1.9.0/go.mod h1:eQcE1qtQxscV5RaZvpXrrb8Drkc3/DdQ+uUYCNjL+zU=
 github.com/guptarohit/asciigraph v0.5.6 h1:0tra3HEhfdj1sP/9IedrCpfSiXYTtHdCgBhBL09Yx6E=
@@ -19,5 +17,6 @@ golang.org/x/sys v0.0.0-20190222072716-a9d3bda3a223/go.mod h1:STP8DvDyc/dI5b8T5h
 golang.org/x/sys v0.0.0-20191026070338-33540a1f6037/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20200116001909-b77594299b42/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
-golang.org/x/sys v0.0.0-20200724161237-0e2f3a69832c h1:UIcGWL6/wpCfyGuJnRFJRurA+yj8RrW7Q6x2YMCXt6c=
 golang.org/x/sys v0.0.0-20200724161237-0e2f3a69832c/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.1.0 h1:kunALQeHf1/185U1i0GOB/fy1IPRDDpuoOOqRReG57U=
+golang.org/x/sys v0.1.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
